@@ -12,10 +12,6 @@ A Few Things About Me:
 
 - 💡 I’m excited about blockchain and Web3—particularly how it’s revolutionizing finance with decentralization, giving more power to individuals and communities.
 
-- 💬 I believe in the power of communities to drive meaningful change, whether it’s through shared knowledge or collective goals.
-
-- 📊 I am also a data analyst with profiency in Excel and Power Bi (I am also looking at building my SQL skills).
-
 - ⚡ Fun fact: When I'm not working, you'll find me serving aces on the tennis court 🥎 or defending opponents on the football pitch ⚽. I also enjoy good music when working or relaxing! 🎧
 
 **Skills** 🛠
