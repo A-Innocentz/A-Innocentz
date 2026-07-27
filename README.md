@@ -5,7 +5,7 @@
 
 I enjoy helping customers solve problems and building the documentation and processes that make support easier, faster, and more consistent.
 
-I'm currently developing practical skills in Zendesk, HubSpot, knowledge management, SOP creation, and customer experience.
+I'm building practical customer support systems using Zendesk, HubSpot, knowledge management, SOP creation, and customer experience principles.
 
 ## What you'll find here
 
