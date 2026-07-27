@@ -1,4 +1,5 @@
 ## Hi, I'm Innocent Aghidi 👋
+![DA Banner](Innocent-Aghidi-Banner.png)
 
 ## Customer Support Specialist | Customer Success | Knowledge Management
 
