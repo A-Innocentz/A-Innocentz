@@ -1,36 +1,29 @@
-## Hi there 👋 Welcome to My Community-Driven World!
-![DA Banner](https://github.com/A-Innocentz/A-Innocentz/blob/main/Community%20manager%20banner.jpg)
+## Hi, I'm Innocent Aghidi 👋
 
-I'm **Innocent**, a ✨ *Community Manager* ✨ with a passion for bringing people together and building communities where everyone can thrive. My journey into community management is fueled by my love for helping others learn, grow, and create lasting connections in spaces that matter.
+## Customer Support Specialist | Customer Success | Knowledge Management
 
-A Few Things About Me:
-- 🌱 I’m currently deep-diving into the ***Successful Community Management*** course by FeverBee to sharpen my skills even further.
+I enjoy helping customers solve problems and building the documentation and processes that make support easier, faster, and more consistent.
 
-- 👨‍💻 I manage the Trading Vahalla community on WhatsApp, where traders come together to share insights and grow collectively.
+I'm currently developing practical skills in Zendesk, HubSpot, knowledge management, SOP creation, and customer experience.
 
-- 👨‍💻 I currently volunteer as a community moderator with Ingressive For Good.
+## What you'll find here
 
-- 💡 I’m excited about blockchain and Web3—particularly how it’s revolutionizing finance with decentralization, giving more power to individuals and communities.
+This GitHub showcases real customer support work—not software projects.
 
-- ⚡ Fun fact: When I'm not working, you'll find me serving aces on the tennis court 🥎 or defending opponents on the football pitch ⚽. I also enjoy good music when working or relaxing! 🎧
+- Knowledge Base Articles
+- Troubleshooting Guides
+- Standard Operating Procedures (SOPs)
+- Customer Communication Templates
+- Support Workflow Documentation
+- Portfolio Projects
 
-**Skills** 🛠
-- Problem Solving 🔎
-- Community Strategy 🎯
-- Content Management 👔
-- Community Building ⚒⛓
-- Data Reporting 🔎📊
-- Confilct Resolution 🤝
+## Currently Building
 
-**Tools**
-- Discord
-- Telegram
-- WhatsApp
-- Instagram
-- Facebook
-- X (Fomerly know as Twitter)
+- Customer Support Systems
+- Zendesk & HubSpot Projects
+- Documentation Portfolio
+- Customer Experience (CX) Skills
 
-
-Let’s Connect!
-If you’re as passionate about communities as I am—or just want to chat about Web3, blockchain, or anything in between—you can find me here:
-- 📫 [Twitter](https://x.com/remyking_) | [LinkedIn](https://www.linkedin.com/in/aghidi-innocent)
+📧 **Email:** i.aghidi01@gmail.com
+- 📫 [X (Formerly Twitter)]
+- (https://x.com/j_aghidi_) | [LinkedIn](https://www.linkedin.com/in/innocent-aghidi)
