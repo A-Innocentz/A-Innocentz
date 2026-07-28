@@ -25,6 +25,6 @@ This GitHub showcases real customer support work—not software projects.
 - Documentation Portfolio
 - Customer Experience (CX) Skills
 
-📧 **Email:** i.aghidi01@gmail.com
-- 📫 [X (Formerly Twitter)]
+ **Email:** i.aghidi01@gmail.com
+- [X]
 - (https://x.com/j_aghidi_) | [LinkedIn](https://www.linkedin.com/in/innocent-aghidi)
